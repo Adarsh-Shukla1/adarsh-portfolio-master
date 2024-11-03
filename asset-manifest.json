@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/adarsh-portfolio-master/static/css/main.6f87c3e3.css",
+    "main.js": "/adarsh-portfolio-master/static/js/main.5bca2892.js",
+    "index.html": "/adarsh-portfolio-master/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.6f87c3e3.css",
+    "static/js/main.5bca2892.js"
+  ]
+}
